@@ -1,0 +1,400 @@
+1: Who was the doctoral supervisor of Albert Einstein?
+[('Who', 'WP', 'O'), ('was', 'VBD', 'O'), ('the', 'DT', 'O'), ('doctoral', 'JJ', 'O'), ('supervisor', 'NN', 'O'), ('of', 'IN', 'O'), ('Albert Einstein', 'NNP', 'PER'), ('?', '.', 'O')] 
+['', 'was', 'doctoral supervisor', ''] 
+
+2: Did Kaurismäki ever win the Grand Prix at Cannes?
+[('Did', 'VBD', 'O'), ('Kaurismäki', 'NNP', 'U-PER'), ('ever', 'RB', 'O'), ('win', 'VB', 'O'), ('the', 'DT', 'O'), ('Grand Prix', 'NNP', 'MISC'), ('at', 'IN', 'O'), ('Cannes', 'NNPS', 'U-LOC'), ('?', '.', 'O')] 
+['Did', 'win', '', ''] 
+
+3: Who wrote the song Hotel California?
+[('Who', 'WP', 'O'), ('wrote', 'VBD', 'O'), ('the', 'DT', 'O'), ('song', 'NN', 'O'), ('Hotel California', 'NNP', 'LOC'), ('?', '.', 'O')] 
+['', 'wrote', 'song', ''] 
+
+4: Who was on the Apollo 11 mission?
+[('Who', 'WP', 'O'), ('was', 'VBD', 'O'), ('on', 'IN', 'O'), ('the', 'DT', 'O'), ('Apollo 11', 'CD', 'MISC'), ('mission', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'was on', 'mission'] 
+
+5: Which electronics companies were founded in Beijing?
+[('Which', 'WDT', 'O'), ('electronics', 'NNS', 'O'), ('companies', 'NNS', 'O'), ('were', 'VBD', 'O'), ('founded', 'VBN', 'O'), ('in', 'IN', 'O'), ('Beijing', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'electronics', 'were founded in', ''] 
+
+6: What is in a chocolate chip cookie?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('in', 'IN', 'O'), ('a', 'DT', 'O'), ('chocolate', 'NN', 'O'), ('chip', 'NN', 'O'), ('cookie', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'is in', 'chocolate', 'cookie'] 
+
+7: What is the atmosphere of the Moon composed of?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('atmosphere', 'NN', 'O'), ('of', 'IN', 'O'), ('the', 'DT', 'O'), ('Moon', 'NNP', 'U-PER'), ('composed', 'VBN', 'O'), ('of', 'IN', 'O'), ('?', '.', 'O')] 
+['', 'is', 'atmosphere of', '', 'composed of'] 
+
+8: How many movies did Park Chan-wook direct?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('movies', 'NNS', 'O'), ('did', 'VBD', 'O'), ('Park Chan', 'NNP', 'PER'), ('-', 'HYPH', 'O'), ('wook', 'NN', 'O'), ('direct', 'RB', 'O'), ('?', '.', 'O')] 
+['', '', 'did', '', ''] 
+
+9: Who are the developers of DBpedia?
+[('Who', 'WP', 'O'), ('are', 'VBP', 'O'), ('the', 'DT', 'O'), ('developers', 'NNS', 'O'), ('of', 'IN', 'O'), ('DBpedia', 'NNP', 'U-ORG'), ('?', '.', 'O')] 
+['', 'are', 'developers of', ''] 
+
+10: Which Indian company has the most employees?
+[('Which', 'WDT', 'O'), ('Indian', 'JJ', 'U-MISC'), ('company', 'NN', 'O'), ('has', 'VBZ', 'O'), ('the', 'DT', 'O'), ('most', 'JJS', 'O'), ('employees', 'NNS', 'O'), ('?', '.', 'O')] 
+['', 'company', '', '', 'employees'] 
+
+11: What is the name of the school where Obama's wife studied?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('name', 'NN', 'O'), ('of', 'IN', 'O'), ('the', 'DT', 'O'), ('school', 'NN', 'O'), ('where', 'WRB', 'O'), ('Obama', 'NNP', 'U-PER'), ("'s", 'POS', 'O'), ('wife', 'NN', 'O'), ('studied', 'VBD', 'O'), ('?', '.', 'O')] 
+['', 'is', 'name of', 'school', '', 'wife', 'studied'] 
+
+12: Where does Piccadilly start?
+[('Where', 'WRB', 'O'), ('does', 'VBZ', 'O'), ('Piccadilly', 'RB', 'U-PER'), ('start', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'does', ''] 
+
+13: What is the capital of Cameroon?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('capital', 'NN', 'O'), ('of', 'IN', 'O'), ('Cameroon', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'is', 'capital of', ''] 
+
+14: When did the Boston Tea Party take place?
+[('When', 'WRB', 'O'), ('did', 'VBD', 'O'), ('the', 'DT', 'O'), ('Boston Tea Party', 'NNP', 'ORG'), ('take', 'VB', 'O'), ('place', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'did', '', 'take place'] 
+
+15: Who played Gus Fring in Breaking Bad?
+[('Who', 'WP', 'O'), ('played', 'VBD', 'O'), ('Gus Fring', 'NNP', 'PER'), ('in', 'IN', 'O'), ('Breaking Bad', 'JJ', 'ORG'), ('?', '.', 'O')] 
+['', 'played in', ''] 
+
+16: Who wrote Harry Potter?
+[('Who', 'WP', 'O'), ('wrote', 'VBD', 'O'), ('Harry Potter', 'NNP', 'PER'), ('?', '.', 'O')] 
+['', 'wrote'] 
+
+17: Which actors play in Big Bang Theory?
+[('Which', 'WDT', 'O'), ('actors', 'NNS', 'O'), ('play', 'VBP', 'O'), ('in', 'IN', 'O'), ('Big Bang Theory', 'NNP', 'MISC'), ('?', '.', 'O')] 
+['', 'actors', 'play in', ''] 
+
+18: What is the largest country in the world?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('largest', 'JJS', 'O'), ('country', 'NN', 'O'), ('in', 'IN', 'O'), ('the', 'DT', 'O'), ('world', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'is', '', 'country in', 'world'] 
+
+19: Who is the most powerful Jedi?
+[('Who', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('most', 'RBS', 'O'), ('powerful', 'JJ', 'O'), ('Jedi', 'NNP', 'U-MISC'), ('?', '.', 'O')] 
+['', 'is', '', '', ''] 
+
+20: How many goals did Pelé score?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('goals', 'NNS', 'O'), ('did', 'VBD', 'O'), ('Pelé', 'NNP', 'U-PER'), ('score', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'did', ''] 
+
+21: Who is the president of Eritrea?
+[('Who', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('president', 'NN', 'O'), ('of', 'IN', 'O'), ('Eritrea', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'is', 'president of', ''] 
+
+22: Which computer scientist won an oscar?
+[('Which', 'WDT', 'O'), ('computer', 'NN', 'O'), ('scientist', 'NN', 'O'), ('won', 'VBD', 'O'), ('an', 'DT', 'O'), ('oscar', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'computer', 'won', 'oscar'] 
+
+23: Who created Family Guy?
+[('Who', 'WP', 'O'), ('created', 'VBD', 'O'), ('Family Guy', 'NNP', 'PER'), ('?', '.', 'O')] 
+['', 'created'] 
+
+24: How many people live in Poland?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('people', 'NNS', 'O'), ('live', 'VBP', 'O'), ('in', 'IN', 'O'), ('Poland', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', '', 'live in', ''] 
+
+25: To which party does the mayor of Paris belong?
+[('To', 'TO', 'O'), ('which', 'WDT', 'O'), ('party', 'NN', 'O'), ('does', 'VBZ', 'O'), ('the', 'DT', 'O'), ('mayor', 'NN', 'O'), ('of', 'IN', 'O'), ('Paris', 'NNP', 'U-LOC'), ('belong', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'party', '', 'mayor of', 'belong'] 
+
+26: Who does the voice of Bart Simpson?
+[('Who', 'WP', 'O'), ('does', 'VBZ', 'O'), ('the', 'DT', 'O'), ('voice', 'NN', 'O'), ('of', 'IN', 'O'), ('Bart Simpson', 'NNP', 'PER'), ('?', '.', 'O')] 
+['', 'does', 'voice of', ''] 
+
+27: Who composed the soundtrack for Cameron's Titanic?
+[('Who', 'WP', 'O'), ('composed', 'VBD', 'O'), ('the', 'DT', 'O'), ('soundtrack', 'NN', 'O'), ('for', 'IN', 'O'), ('Cameron', 'NNP', 'U-PER'), ("'s", 'POS', 'O'), ('Titanic', 'NNP', 'U-MISC'), ('?', '.', 'O')] 
+['', 'composed', 'soundtrack for', '', ''] 
+
+28: When did Boris Becker end his active career?
+[('When', 'WRB', 'O'), ('did', 'VBD', 'O'), ('Boris Becker', 'NNP', 'PER'), ('end', 'VB', 'O'), ('his', 'PRP$', 'O'), ('active', 'JJ', 'O'), ('career', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'did', '', 'active career'] 
+
+29: Show me all basketball players that are higher than 2 meters.
+[('Show', 'VB', 'O'), ('me', 'PRP', 'O'), ('all', 'DT', 'O'), ('basketball', 'NN', 'O'), ('players', 'NNS', 'O'), ('that', 'WDT', 'O'), ('are', 'VBP', 'O'), ('higher', 'JJR', 'O'), ('than', 'IN', 'O'), ('2', 'CD', 'O'), ('meters', 'NNS', 'O'), ('.', '.', 'O')] 
+['Show', '', 'basketball', '', 'are', '', '', 'meters'] 
+
+30: What country is Sitecore from?
+[('What', 'WP', 'O'), ('country', 'NN', 'O'), ('is', 'VBZ', 'O'), ('Sitecore', 'NNP', 'U-ORG'), ('from', 'IN', 'O'), ('?', '.', 'O')] 
+['', 'country', '', ''] 
+
+31: Which country was Bill Gates born in?
+[('Which', 'WDT', 'O'), ('country', 'NN', 'O'), ('was', 'VBD', 'O'), ('Bill Gates', 'NNP', 'PER'), ('born', 'VBN', 'O'), ('in', 'IN', 'O'), ('?', '.', 'O')] 
+['', 'country', 'was', '', ''] 
+
+32: Who developed Slack?
+[('Who', 'WP', 'O'), ('developed', 'VBD', 'O'), ('Slack', 'NN', 'U-PER'), ('?', '.', 'O')] 
+['', 'developed'] 
+
+33: In which city did Nikos Kazantzakis die?
+[('In', 'IN', 'O'), ('which', 'WDT', 'O'), ('city', 'NN', 'O'), ('did', 'VBD', 'O'), ('Nikos Kazantzakis', 'NNP', 'PER'), ('die', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'city', 'did', ''] 
+
+34: How many grand-children did Jacques Cousteau have?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('grand', 'JJ', 'O'), ('-', 'HYPH', 'O'), ('children', 'NNS', 'O'), ('did', 'VBD', 'O'), ('Jacques Cousteau', 'NNP', 'PER'), ('have', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'children', 'did', ''] 
+
+35: Which films did Stanley Kubrick direct?
+[('Which', 'WDT', 'O'), ('films', 'NNS', 'O'), ('did', 'VBD', 'O'), ('Stanley Kubrick', 'NNP', 'PER'), ('direct', 'JJ', 'O'), ('?', '.', 'O')] 
+['', 'films', 'did', ''] 
+
+36: Does Neymar play for Real Madrid?
+[('Does', 'VBZ', 'O'), ('Neymar', 'NNP', 'U-PER'), ('play', 'VB', 'O'), ('for', 'IN', 'O'), ('Real Madrid', 'NNP', 'ORG'), ('?', '.', 'O')] 
+['Does', '', ''] 
+
+37: How many seats does the home stadium of FC Porto have?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('seats', 'NNS', 'O'), ('does', 'VBZ', 'O'), ('the', 'DT', 'O'), ('home', 'NN', 'O'), ('stadium', 'NN', 'O'), ('of', 'IN', 'O'), ('FC Porto', 'NNP', 'ORG'), ('have', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'does', 'home', '', '', 'have'] 
+
+38: Show me all books in Asimov's Foundation series.
+[('Show', 'VB', 'O'), ('me', 'PRP', 'O'), ('all', 'DT', 'O'), ('books', 'NNS', 'O'), ('in', 'IN', 'O'), ('Asimov', 'NNP', 'U-PER'), ("'s", 'POS', 'O'), ('Foundation', 'NNP', 'U-ORG'), ('series', 'NN', 'O'), ('.', '.', 'O')] 
+['Show', '', 'books in', '', 'series'] 
+
+39: Which movies star both Liz Taylor and Richard Burton?
+[('Which', 'WDT', 'O'), ('movies', 'NNS', 'O'), ('star', 'VBP', 'O'), ('both', 'DT', 'O'), ('Liz Taylor', 'NNP', 'PER'), ('and', 'CC', 'O'), ('Richard Burton', 'NNP', 'PER'), ('?', '.', 'O')] 
+['', 'movies', 'star', '', ''] 
+
+40: In which city are the headquarters of the United Nations?
+[('In', 'IN', 'O'), ('which', 'WDT', 'O'), ('city', 'NN', 'O'), ('are', 'VBP', 'O'), ('the', 'DT', 'O'), ('headquarters', 'NN', 'O'), ('of', 'IN', 'O'), ('the', 'DT', 'O'), ('United Nations', 'NNP', 'ORG'), ('?', '.', 'O')] 
+['', '', 'city', 'are', 'headquarters of', ''] 
+
+41: In which city was the president of Montenegro born?
+[('In', 'IN', 'O'), ('which', 'WDT', 'O'), ('city', 'NN', 'O'), ('was', 'VBD', 'O'), ('the', 'DT', 'O'), ('president', 'NN', 'O'), ('of', 'IN', 'O'), ('Montenegro', 'NNP', 'U-LOC'), ('born', 'VBN', 'O'), ('?', '.', 'O')] 
+['', '', 'city', 'was', 'president of', 'born'] 
+
+42: Which writers studied in Istanbul?
+[('Which', 'WDT', 'O'), ('writers', 'NNS', 'O'), ('studied', 'VBD', 'O'), ('in', 'IN', 'O'), ('Istanbul', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'writers', 'studied in', ''] 
+
+43: Who is the mayor of Paris?
+[('Who', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('mayor', 'NN', 'O'), ('of', 'IN', 'O'), ('Paris', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'is', 'mayor of', ''] 
+
+44: What is the full name of Prince Charles?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('full', 'JJ', 'O'), ('name', 'NN', 'O'), ('of', 'IN', 'O'), ('Prince Charles', 'NNP', 'PER'), ('?', '.', 'O')] 
+['', 'is', 'full name', ''] 
+
+45: What is the longest river in China?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('longest', 'JJS', 'O'), ('river', 'NN', 'O'), ('in', 'IN', 'O'), ('China', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'is', '', 'river in', ''] 
+
+46: Who discovered Ceres?
+[('Who', 'WP', 'O'), ('discovered', 'VBD', 'O'), ('Ceres', 'NNS', 'U-PER'), ('?', '.', 'O')] 
+['', 'discovered'] 
+
+47: When did princess Diana die?
+[('When', 'WRB', 'O'), ('did', 'VBD', 'O'), ('princess', 'VB', 'O'), ('Diana', 'NNP', 'U-PER'), ('die', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'did', '', 'die'] 
+
+48: What do ants eat?
+[('What', 'WP', 'O'), ('do', 'VBP', 'O'), ('ants', 'NNS', 'O'), ('eat', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'do', 'eat'] 
+
+49: Who is the host of the BBC Wildlife Specials?
+[('Who', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('host', 'NN', 'O'), ('of', 'IN', 'O'), ('the', 'DT', 'O'), ('BBC Wildlife Specials', 'NNPS', 'ORG'), ('?', '.', 'O')] 
+['', 'is', 'host of', ''] 
+
+50: How many moons does Mars have?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('moons', 'NNS', 'O'), ('does', 'VBZ', 'O'), ('Mars', 'NNP', 'U-PER'), ('have', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'does', ''] 
+
+51: What was the first Queen album?
+[('What', 'WP', 'O'), ('was', 'VBD', 'O'), ('the', 'DT', 'O'), ('first', 'JJ', 'O'), ('Queen', 'NNP', 'O'), ('album', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'was', '', 'album'] 
+
+52: Did Elvis Presley have children?
+[('Did', 'VBD', 'O'), ('Elvis Presley', 'NNP', 'PER'), ('have', 'VB', 'O'), ('children', 'NNS', 'O'), ('?', '.', 'O')] 
+['Did', 'children'] 
+
+53: Give me a list of all Canadians that reside in the U.S.
+[('Give', 'VB', 'O'), ('me', 'PRP', 'O'), ('a', 'DT', 'O'), ('list', 'NN', 'O'), ('of', 'IN', 'O'), ('all', 'DT', 'O'), ('Canadians', 'NNPS', 'U-MISC'), ('that', 'WDT', 'O'), ('reside', 'VBP', 'O'), ('in', 'IN', 'O'), ('the', 'DT', 'O'), ('U.S.', 'NNP', 'U-LOC')] 
+['Give', '', 'list of', '', 'reside in', ''] 
+
+54: Where is Syngman Rhee buried?
+[('Where', 'WRB', 'O'), ('is', 'VBZ', 'O'), ('Syngman Rhee', 'NNP', 'PER'), ('buried', 'VBN', 'O'), ('?', '.', 'O')] 
+['', 'is buried'] 
+
+55: In which countries do people speak Japanese?
+[('In', 'IN', 'O'), ('which', 'WDT', 'O'), ('countries', 'NNS', 'O'), ('do', 'VBP', 'O'), ('people', 'NNS', 'O'), ('speak', 'VB', 'O'), ('Japanese', 'NNP', 'U-MISC'), ('?', '.', 'O')] 
+['', '', 'countries', 'do', 'speak', ''] 
+
+56: Who is the king of the Netherlands?
+[('Who', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('king', 'NN', 'O'), ('of', 'IN', 'O'), ('the', 'DT', 'O'), ('Netherlands', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'is', 'king of', ''] 
+
+57: When did the Dodo become extinct?
+[('When', 'WRB', 'O'), ('did', 'VBD', 'O'), ('the', 'DT', 'O'), ('Dodo', 'NNP', 'U-PER'), ('become', 'VB', 'O'), ('extinct', 'JJ', 'O'), ('?', '.', 'O')] 
+['', 'did', '', 'become', ''] 
+
+58: Show me all Czech movies.
+[('Show', 'VB', 'O'), ('me', 'PRP', 'O'), ('all', 'DT', 'O'), ('Czech', 'JJ', 'U-MISC'), ('movies', 'NNS', 'O'), ('.', '.', 'O')] 
+['Show', '', '', ''] 
+
+59: Which rivers flow into the North Sea?
+[('Which', 'WDT', 'O'), ('rivers', 'NNS', 'O'), ('flow', 'VBP', 'O'), ('into', 'IN', 'O'), ('the', 'DT', 'O'), ('North Sea', 'NNP', 'LOC'), ('?', '.', 'O')] 
+['', 'rivers', 'flow into', ''] 
+
+60: When did Operation Overlord commence?
+[('When', 'WRB', 'O'), ('did', 'VBD', 'O'), ('Operation Overlord', 'NNP', 'MISC'), ('commence', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'did', ''] 
+
+61: Where do the Red Sox play?
+[('Where', 'WRB', 'O'), ('do', 'VBP', 'O'), ('the', 'DT', 'O'), ('Red Sox', 'NNPS', 'ORG'), ('play', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'do', '', 'play'] 
+
+62: In which time zone is Rome?
+[('In', 'IN', 'O'), ('which', 'WDT', 'O'), ('time', 'NN', 'O'), ('zone', 'NN', 'O'), ('is', 'VBZ', 'O'), ('Rome', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', '', 'time', 'is'] 
+
+63: Give me a list of all critically endangered birds.
+[('Give', 'VB', 'O'), ('me', 'PRP', 'O'), ('a', 'DT', 'O'), ('list', 'NN', 'O'), ('of', 'IN', 'O'), ('all', 'DT', 'O'), ('critically', 'RB', 'O'), ('endangered', 'VBN', 'O'), ('birds', 'NNS', 'O'), ('.', '.', 'O')] 
+['Give', '', 'list of', '', 'endangered', ''] 
+
+64: How much did the Lego Movie cost?
+[('How', 'WRB', 'O'), ('much', 'JJ', 'O'), ('did', 'VBD', 'O'), ('the', 'DT', 'O'), ('Lego Movie', 'NNP', 'MISC'), ('cost', 'NN', 'O'), ('?', '.', 'O')] 
+['', '', '', 'cost'] 
+
+65: What was the original occupation of the inventor of Lego?
+[('What', 'WP', 'O'), ('was', 'VBD', 'O'), ('the', 'DT', 'O'), ('original', 'JJ', 'O'), ('occupation', 'NN', 'O'), ('of', 'IN', 'O'), ('the', 'DT', 'O'), ('inventor', 'NN', 'O'), ('of', 'IN', 'O'), ('Lego', 'NNP', 'U-ORG'), ('?', '.', 'O')] 
+['', 'was', 'original occupation', '', 'inventor of', ''] 
+
+66: Which countries have more than ten volcanoes?
+[('Which', 'WDT', 'O'), ('countries', 'NNS', 'O'), ('have', 'VBP', 'O'), ('more', 'JJR', 'O'), ('than', 'IN', 'O'), ('ten', 'CD', 'O'), ('volcanoes', 'NNS', 'O'), ('?', '.', 'O')] 
+['', 'countries', 'have', '', '', 'volcanoes'] 
+
+67: Show me all U.S. states.
+[('Show', 'VB', 'O'), ('me', 'PRP', 'O'), ('all', 'DT', 'O'), ('U.S.', 'NNP', 'U-LOC'), ('states', 'NNS', 'O'), ('.', '.', 'O')] 
+['Show', '', '', ''] 
+
+68: Who wrote the Game of Thrones theme?
+[('Who', 'WP', 'O'), ('wrote', 'VBD', 'O'), ('the', 'DT', 'O'), ('Game of Thrones', 'NNP', 'MISC'), ('theme', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'wrote', 'theme'] 
+
+69: How many calories does a baguette have?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('calories', 'NNS', 'O'), ('does', 'VBZ', 'O'), ('a', 'DT', 'O'), ('baguette', 'NN', 'O'), ('have', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'does', 'baguette', 'have'] 
+
+70: Can you cry underwater?
+[('Can', 'MD', 'O'), ('you', 'PRP', 'O'), ('cry', 'VB', 'O'), ('underwater', 'RB', 'O'), ('?', '.', 'O')] 
+['', '', 'cry', ''] 
+
+71: Which companies produce hovercrafts?
+[('Which', 'WDT', 'O'), ('companies', 'NNS', 'O'), ('produce', 'VBP', 'O'), ('hovercrafts', 'NNS', 'O'), ('?', '.', 'O')] 
+['', 'companies', 'produce', ''] 
+
+72: How many emperors did China have?
+[('How', 'WRB', 'O'), ('many', 'JJ', 'O'), ('emperors', 'NNS', 'O'), ('did', 'VBD', 'O'), ('China', 'NNP', 'U-LOC'), ('have', 'VB', 'O'), ('?', '.', 'O')] 
+['', '', 'did', ''] 
+
+73: Show me hiking trails in the Grand Canyon where there's no danger of flash floods.
+[('Show', 'VB', 'O'), ('me', 'PRP', 'O'), ('hiking', 'VBG', 'O'), ('trails', 'NNS', 'O'), ('in', 'IN', 'O'), ('the', 'DT', 'O'), ('Grand Canyon', 'NNP', 'LOC'), ('where', 'WRB', 'O'), ('there', 'EX', 'O'), ("'s", 'VBZ', 'O'), ('no', 'DT', 'O'), ('danger', 'NN', 'O'), ('of', 'IN', 'O'), ('flash', 'NN', 'O'), ('floods', 'NNS', 'O'), ('.', '.', 'O')] 
+['Show', 'hiking', '', '', '', '', "'s", 'danger of', 'floods'] 
+
+74: In which ancient empire could you pay with cocoa beans?
+[('In', 'IN', 'O'), ('which', 'WDT', 'O'), ('ancient', 'JJ', 'O'), ('empire', 'NN', 'O'), ('could', 'MD', 'O'), ('you', 'PRP', 'O'), ('pay', 'VB', 'O'), ('with', 'IN', 'O'), ('cocoa', 'NN', 'O'), ('beans', 'NNS', 'O'), ('?', '.', 'O')] 
+['', '', 'ancient empire', '', 'pay with', 'beans'] 
+
+75: How did Michael Jackson die?
+[('How', 'WRB', 'O'), ('did', 'VBD', 'O'), ('Michael Jackson', 'NNP', 'PER'), ('die', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'did', ''] 
+
+76: Which space probes were sent into orbit around the sun?
+[('Which', 'WDT', 'O'), ('space', 'NN', 'O'), ('probes', 'NNS', 'O'), ('were', 'VBD', 'O'), ('sent', 'VBN', 'O'), ('into', 'IN', 'O'), ('orbit', 'NN', 'O'), ('around', 'IN', 'O'), ('the', 'DT', 'O'), ('sun', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'space', 'were sent into', '', '', 'sun'] 
+
+77: When was Coca Cola invented?
+[('When', 'WRB', 'O'), ('was', 'VBD', 'O'), ('Coca Cola', 'NNP', 'PER'), ('invented', 'VBD', 'O'), ('?', '.', 'O')] 
+['', 'was invented'] 
+
+78: What is the biggest stadium in Spain?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('biggest', 'JJS', 'O'), ('stadium', 'NN', 'O'), ('in', 'IN', 'O'), ('Spain', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'is', '', 'stadium in', ''] 
+
+79: On which day is Columbus Day?
+[('On', 'IN', 'O'), ('which', 'WDT', 'O'), ('day', 'NN', 'O'), ('is', 'VBZ', 'O'), ('Columbus Day', 'NNP', 'MISC'), ('?', '.', 'O')] 
+['', '', 'day', ''] 
+
+80: How short is the shortest active NBA player?
+[('How', 'WRB', 'O'), ('short', 'JJ', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('shortest', 'JJS', 'O'), ('active', 'JJ', 'O'), ('NBA', 'NNP', 'U-ORG'), ('player', 'NN', 'O'), ('?', '.', 'O')] 
+['', '', '', '', '', 'player'] 
+
+81: Whom did Lance Bass marry?
+[('Whom', 'WP', 'O'), ('did', 'VBD', 'O'), ('Lance Bass', 'NNP', 'PER'), ('marry', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'did', ''] 
+
+82: What form of government does Russia have?
+[('What', 'WDT', 'O'), ('form', 'NN', 'O'), ('of', 'IN', 'O'), ('government', 'NN', 'O'), ('does', 'VBZ', 'O'), ('Russia', 'NNP', 'U-LOC'), ('have', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'form of', 'does', ''] 
+
+83: What movies does Jesse Eisenberg play in?
+[('What', 'WP', 'O'), ('movies', 'NNS', 'O'), ('does', 'VBZ', 'O'), ('Jesse Eisenberg', 'NNP', 'PER'), ('play', 'VB', 'O'), ('in', 'IN', 'O'), ('?', '.', 'O')] 
+['', 'movies', '', 'play in'] 
+
+84: What color expresses loyalty?
+[('What', 'WDT', 'O'), ('color', 'NN', 'O'), ('expresses', 'VBZ', 'O'), ('loyalty', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'color', 'loyalty'] 
+
+85: Show me all museums in London.
+[('Show', 'VB', 'O'), ('me', 'PRP', 'O'), ('all', 'DT', 'O'), ('museums', 'NNS', 'O'), ('in', 'IN', 'O'), ('London', 'NNP', 'U-LOC'), ('.', '.', 'O')] 
+['Show', '', 'museums in', ''] 
+
+86: Give me all South American countries.
+[('Give', 'VB', 'O'), ('me', 'PRP', 'O'), ('all', 'DT', 'O'), ('South American', 'JJ', 'MISC'), ('countries', 'NNS', 'O'), ('.', '.', 'O')] 
+['Give', '', '', ''] 
+
+87: Who is the coach of Ankara's ice hockey team?
+[('Who', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('coach', 'NN', 'O'), ('of', 'IN', 'O'), ('Ankara', 'NNP', 'U-LOC'), ("'s", 'POS', 'O'), ('ice', 'NN', 'O'), ('hockey', 'NN', 'O'), ('team', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'is', 'coach of', '', 'ice', 'team'] 
+
+88: Who is the son of Sonny and Cher?
+[('Who', 'WP', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('son', 'NN', 'O'), ('of', 'IN', 'O'), ('Sonny', 'NNP', 'U-PER'), ('and', 'CC', 'O'), ('Cher', 'NNP', 'U-PER'), ('?', '.', 'O')] 
+['', 'is', 'son of', '', ''] 
+
+89: What are the five boroughs of New York?
+[('What', 'WP', 'O'), ('are', 'VBP', 'O'), ('the', 'DT', 'O'), ('five', 'CD', 'O'), ('boroughs', 'NNS', 'O'), ('of', 'IN', 'O'), ('New York', 'NNP', 'LOC'), ('?', '.', 'O')] 
+['', 'are', '', 'boroughs of', ''] 
+
+90: Show me Hemingway's autobiography.
+[('Show', 'VB', 'O'), ('me', 'PRP', 'O'), ('Hemingway', 'NNP', 'U-PER'), ("'s", 'POS', 'O'), ('autobiography', 'NN', 'O'), ('.', '.', 'O')] 
+['Show', '', 'autobiography'] 
+
+91: What kind of music did Lou Reed play?
+[('What', 'WDT', 'O'), ('kind', 'NN', 'O'), ('of', 'IN', 'O'), ('music', 'NN', 'O'), ('did', 'VBD', 'O'), ('Lou Reed', 'NNP', 'PER'), ('play', 'VB', 'O'), ('?', '.', 'O')] 
+['', 'kind of', 'did', ''] 
+
+92: In which city does Sylvester Stallone live?
+[('In', 'IN', 'O'), ('which', 'WDT', 'O'), ('city', 'NN', 'O'), ('does', 'VBZ', 'O'), ('Sylvester Stallone', 'NNP', 'PER'), ('live', 'RB', 'O'), ('?', '.', 'O')] 
+['', '', 'city', 'live'] 
+
+93: Who was Vincent van Gogh inspired by?
+[('Who', 'WP', 'O'), ('was', 'VBD', 'O'), ('Vincent van Gogh', 'NNP', 'PER'), ('inspired', 'VBN', 'O'), ('by', 'IN', 'O'), ('?', '.', 'O')] 
+['', 'was', '', ''] 
+
+94: What are the names of the Teenage Mutant Ninja Turtles?
+[('What', 'WP', 'O'), ('are', 'VBP', 'O'), ('the', 'DT', 'O'), ('names', 'NNS', 'O'), ('of', 'IN', 'O'), ('the', 'DT', 'O'), ('Teenage Mutant Ninja Turtles', 'NNPS', 'MISC'), ('?', '.', 'O')] 
+['', 'are', 'names of', ''] 
+
+95: What are the zodiac signs?
+[('What', 'WP', 'O'), ('are', 'VBP', 'O'), ('the', 'DT', 'O'), ('zodiac', 'NN', 'O'), ('signs', 'NNS', 'O'), ('?', '.', 'O')] 
+['', 'are', 'zodiac', ''] 
+
+96: What languages do they speak in Pakistan?
+[('What', 'WP', 'O'), ('languages', 'NNS', 'O'), ('do', 'VBP', 'O'), ('they', 'PRP', 'O'), ('speak', 'VB', 'O'), ('in', 'IN', 'O'), ('Pakistan', 'NNP', 'U-LOC'), ('?', '.', 'O')] 
+['', 'languages', 'do', 'speak in', ''] 
+
+97: Who became president after JFK died?
+[('Who', 'WP', 'O'), ('became', 'VBD', 'O'), ('president', 'NN', 'O'), ('after', 'IN', 'O'), ('JFK', 'NNP', 'U-PER'), ('died', 'VBD', 'O'), ('?', '.', 'O')] 
+['', 'became', '', '', 'died'] 
+
+98: In what city is the Heineken brewery?
+[('In', 'IN', 'O'), ('what', 'WP', 'O'), ('city', 'NN', 'O'), ('is', 'VBZ', 'O'), ('the', 'DT', 'O'), ('Heineken', 'NNP', 'U-ORG'), ('brewery', 'NN', 'O'), ('?', '.', 'O')] 
+['', '', 'city', '', 'brewery'] 
+
+99: What is Elon Musk famous for?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('Elon Musk', 'NNP', 'PER'), ('famous', 'JJ', 'O'), ('for', 'IN', 'O'), ('?', '.', 'O')] 
+['', 'is', '', ''] 
+
+100: What is Batman's real name?
+[('What', 'WP', 'O'), ('is', 'VBZ', 'O'), ('Batman', 'NNP', 'U-PER'), ("'s", 'POS', 'O'), ('real', 'JJ', 'O'), ('name', 'NN', 'O'), ('?', '.', 'O')] 
+['', 'is', 'real name'] 
+
